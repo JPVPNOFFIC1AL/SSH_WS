@@ -1,10 +1,12 @@
 # Simple AutoScript SSH-WS
 <p align="center">
-  <a href="https://github.com/AxFrds/ssh-ws" target="_blank" rel="noopener noreferrer" >
-    <img src="https://raw.githubusercontent.com/AxFrds/ssh-ws/master/screenshot/IMG_20250909_224543.jpg" alt="SSH-WS screenshot" width="600" height="auto">
+  <a href="https://github.com/JPVPNOFFICIAL/SSH_WS" target="_blank" rel="noopener noreferrer" >
+    <img src="https://raw.githubusercontent.com/JPVPNOFFICIAL/SSH_WS/main/logo.png" alt="JPVPN OFFICIAL" width="600" height="auto">
   </a>
 </p>
 
+### Installation
+**First time to install**
 ### Installation
 **First time to install**
 ```
@@ -13,7 +15,7 @@ apt-get update -y && apt-get upgrade -y && apt-get install wget -y
 
 **Install script**
 ```
-wget -q https://raw.githubusercontent.com/AxFrds/ssh-ws/master/setup && chmod +x setup && ./setup && rm -f setup
+wget -q https://raw.githubusercontent.com/JPVPNOFFICIAL/SSH_WS/main/setup && chmod +x setup && ./setup && rm -f setup
 ```
 
 ### Usage
@@ -44,4 +46,4 @@ wget -q https://raw.githubusercontent.com/AxFrds/ssh-ws/master/setup && chmod +x
 
 ### Notes
 - This script is FREE
-- To register an IP, [contact me](https://t.me/AxFrds)
+- To register an IP, [contact me] 087873951705
